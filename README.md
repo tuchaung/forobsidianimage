@@ -1,0 +1,2 @@
+# forobsidianimage
+save image
